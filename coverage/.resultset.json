@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/student/Programing/Week-4/bookmark-manager/app.rb": {
+      "/Users/devbook/Projects/Week4/bookmark-manager/app.rb": {
         "lines": [
           1,
           1,
@@ -18,21 +18,33 @@
           null
         ]
       },
-      "/Users/student/Programing/Week-4/bookmark-manager/lib/bookmark.rb": {
-        "lines": [
-          1,
-          1,
-          2,
-          null,
-          null
-        ]
-      },
-      "/Users/student/Programing/Week-4/bookmark-manager/spec/bookmark_spec.rb": {
+      "/Users/devbook/Projects/Week4/bookmark-manager/lib/bookmark.rb": {
         "lines": [
           1,
           null,
           1,
           1,
+          3,
+          3,
+          3,
+          3,
+          9,
+          null,
+          null,
+          3,
+          null,
+          null,
+          null,
+          1,
+          1
+        ]
+      },
+      "/Users/devbook/Projects/Week4/bookmark-manager/spec/bookmark_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
           1,
           1,
           null,
@@ -40,7 +52,7 @@
           null
         ]
       },
-      "/Users/student/Programing/Week-4/bookmark-manager/spec/features/bookmarks_spec.rb": {
+      "/Users/devbook/Projects/Week4/bookmark-manager/spec/features/bookmarks_spec.rb": {
         "lines": [
           1,
           1,
@@ -50,7 +62,7 @@
           null
         ]
       },
-      "/Users/student/Programing/Week-4/bookmark-manager/spec/features/set_up_spec.rb": {
+      "/Users/devbook/Projects/Week4/bookmark-manager/spec/features/set_up_spec.rb": {
         "lines": [
           1,
           1,
@@ -61,6 +73,6 @@
         ]
       }
     },
-    "timestamp": 1591020328
+    "timestamp": 1591026963
   }
 }
