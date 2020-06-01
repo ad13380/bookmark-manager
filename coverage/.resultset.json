@@ -16,6 +16,28 @@
           null
         ]
       },
+      "/Users/student/Programing/Week-4/bookmark-manager/spec/bookmark_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/student/Programing/Week-4/bookmark-manager/lib/bookmark.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
       "/Users/student/Programing/Week-4/bookmark-manager/spec/features/bookmarks_spec.rb": {
         "lines": [
           1,
@@ -37,6 +59,6 @@
         ]
       }
     },
-    "timestamp": 1591019590
+    "timestamp": 1591019993
   }
 }
