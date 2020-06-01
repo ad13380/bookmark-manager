@@ -9,6 +9,20 @@
           1,
           1,
           null,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/student/Programing/Week-4/bookmark-manager/spec/features/bookmarks_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          null,
           null
         ]
       },
@@ -23,6 +37,6 @@
         ]
       }
     },
-    "timestamp": 1591019300
+    "timestamp": 1591019590
   }
 }
